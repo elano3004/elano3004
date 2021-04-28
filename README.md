@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Elano Evaristo</h1>
-<h3 align="center">A Web Developer </h3>
+<h3 align="center">Full Stack Web Developer in training.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elano3004" alt="elano3004" /> </p> 
 
  🔭 I’m currently studying at [Trybe](https://github.com/tryber)
@@ -37,9 +37,20 @@ Também gosto de atuar como Design Gráfico usando ferramenteas como CorelDraw,P
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+<h3 align="left">Status GitHub:</h3>
+<br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=elano3004&show_icons=true" alt="elano3004"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elano3004&show_icons=true&theme=onedark&locale=en&layout=compact" alt="elano3004" />
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elano3004&show_icons=true&theme=onedark&locale=en" alt="elano3004" />
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elano3004&theme=onedark" alt="elano3004" />
 </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=elano3004&theme=onedark&row=2&column=3&no-frame=true&margin-h=15&margin-w=15" alt="elano3004" /></a> </p>
+
+
 
 ##  Contact Me
 <p align="center">
