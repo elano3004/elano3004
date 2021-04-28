@@ -1,5 +1,16 @@
- # <a href="https://www.linkedin.com/in/elano-evaristo/">Elano Evaristor</a>
-### Hi there 👋
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Elano Evaristo</h1>
+<h3 align="center">A Web Developer </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elano3004" alt="elano3004" /> </p> 
+
+ 🔭 I’m currently studying at [Trybe](https://github.com/tryber)
+
+- 👨‍💻 All of my projects are available at [elanoevaristo.dev.br](https://github.com/elano3004)
+
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+
+- 📫 How to reach me **elano3004@gmail.com**
+
+- ⚡ Fun fact **Oneye 😜**
 
 ## About Me
 Tenho 27 anos e sou técnica em informática pelo Escola de Ensino Profissionalizante Manoel Mano  - EEP Manoel Mano (Crateús, CE), formado em 2010. 
@@ -26,12 +37,20 @@ Também gosto de atuar como Design Gráfico usando ferramenteas como CorelDraw,P
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=elano3004&show_icons=true" alt="elano3004"/> 
+</p>
 
 ##  Contact Me
-- <a href="https://www.linkedin.com/in/elano-evaristo/">Linkedin</a>
-- <a href="mailto:elano3004@gmail.com">E-mail</a>
-- <a href="https://www.instagram.com/elano3004/">Instagram Pessoal</a>
-<!--- <a href="https://www.instagram.com/girl.coding/">Instagram de Criador de Conteúdo</a> -->
+<p align="center">
+<a href="https://codepen.io/elano3004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="elano3004" height="20" width="20" /></a>
+<a href="https://twitter.com/elano3004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="elano3004" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/elano-evaristo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elano3004" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/11918167/elano-saraiva-evaristo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="elano3004" height="20" width="20" /></a>
+<a href="https://codesandbox.io/u/elano3004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="elano3004" height="20" width="20" /></a>
+<a href="https://fb.com/elano.saraivaevaristo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="elano3004" height="20" width="20" /></a>
+<a href="https://instagram.com/elano3004/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elano3004" height="20" width="20" /></a>
+</p>
 </div>
 
 <!--
