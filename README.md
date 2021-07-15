@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [elanoevaristo.dev.br](https://github.com/elano3004)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL** 
 
 - 📫 How to reach me **elano3004@gmail.com**
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Fun fact **Oneye 😜** [Linkedin](https://www.linkedin.com/in/elano-evaristo/)
 
 ## About Me
 Tenho 27 anos e sou técnica em informática pelo Escola de Ensino Profissionalizante Manoel Mano  - EEP Manoel Mano (Crateús, CE), formado em 2010. 
